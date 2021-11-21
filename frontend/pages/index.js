@@ -10,9 +10,10 @@ import Portfolio from '../components/portfolio'
 import Contact from '../components/contact'
 import { motion } from 'framer-motion'
 
+
 export default function Home() {
   return (
-    <motion.div>
+    <div>
       <Head>
         <title>Constance Ingram</title>
         <meta name="description" content="web developer from Austin, Texas" />
@@ -27,6 +28,6 @@ export default function Home() {
         <Contact />
       </main>
       <Footer />
-    </motion.div>
+    </div>
   )
 }
