@@ -8,6 +8,10 @@ module.exports = {
       },
       backgroundImage: {
         'hero-img' : "url('../public/bluepaint.jpg')",
+        'smoke-img' : "url('../public/background2.jpg')",
+        'flower-img' : "url('../public/background1.jpg')",
+        'paint-img' : "url('../public/background3.jpg')",
+        'cloud-img' : "url('../public/background4.jpg')",
       },
     },
   },
