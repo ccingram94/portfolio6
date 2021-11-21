@@ -1,0 +1,1 @@
+## Groovy Portfolio (Next.js, Strapi.io, TailwindCSS, Framer Motion)
