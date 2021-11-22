@@ -3,8 +3,8 @@ import React from 'react';
 function Experience () {
     return (
         <div>
-            <div className="bg-flower-img h-screen w-screen bg-cover">
-                <div className="bg-pink-300 bg-opacity-80 h-screen w-screen">
+            <div className="bg-flower-img h-full w-screen bg-cover">
+                <div className="bg-pink-300 bg-opacity-80 h-full w-screen">
                     <div className="flex flex-col container mx-auto p-6 justify-center align-center">
                         <h1 className="p-10 text-3xl uppercase text-transparent bg-transparent bg-clip-text bg-gradient-to-br from-indigo-900 to-pink-900 font-montserrat font-bold text-center">Experience</h1>
                     </div>
